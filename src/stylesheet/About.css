@@ -1,0 +1,15 @@
+.about{
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
+.about img{
+    width: 75%;
+    height: 25rem;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* .about .texto-historia{
+    max-height: 500px;
+} */

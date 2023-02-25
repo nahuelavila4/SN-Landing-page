@@ -1,0 +1,19 @@
+.navbar{
+  padding: 1em 1.2em;
+}
+.nav-link{
+  padding: .5em 1.6rem;
+}
+nav{
+  background-color: rgb(123, 97, 199);
+}
+.color-opciones, i{
+  color: aliceblue;
+}
+/* .asd{
+  display: flex;
+  justify-content: end;
+} */
+.sectores{
+    padding: .8em;
+}

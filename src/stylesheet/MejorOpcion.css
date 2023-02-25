@@ -1,0 +1,23 @@
+.prod {
+  margin-top: 10em;
+}
+.prod .container {
+  max-width: 780px;
+}
+.prod .row {
+  margin: 1.5em 0;
+  padding-top: 1.2em;
+  padding-bottom: .8em;
+  background-color: rgb(197, 183, 238);
+  border-radius: 0.8em;
+}
+.beneficio {
+  padding: 0 1.8em;
+}
+.beneficio-header{
+    margin-bottom: .8em;
+}
+.beneficio-header i {
+  font-size: 1.5rem;
+  margin-right: 0.8em;
+}

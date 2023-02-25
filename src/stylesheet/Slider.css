@@ -1,0 +1,9 @@
+.col-md-7 {
+  padding: 0;
+}
+.col-md-7 img {
+  height: 100vh;
+}
+.col-md-5 .descripcion h1{
+  margin-bottom: 1em;
+}
